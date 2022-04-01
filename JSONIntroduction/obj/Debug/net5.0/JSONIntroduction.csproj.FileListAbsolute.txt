@@ -1,0 +1,35 @@
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.exe
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.deps.json
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.runtimeconfig.json
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.runtimeconfig.dev.json
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.dll
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\ref\JSONIntroduction.dll
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.pdb
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.csproj.AssemblyReference.cache
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.AssemblyInfoInputs.cache
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.AssemblyInfo.cs
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.dll
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\ref\JSONIntroduction.dll
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.pdb
+C:\Users\Catalin\Desktop\Facultate\ANUL II\Semestrul II\Joi\C# part 2\Curs 3\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.genruntimeconfig.cache
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.exe
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.deps.json
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.runtimeconfig.json
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.runtimeconfig.dev.json
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.dll
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\JSONIntroduction.pdb
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\bin\Debug\net5.0\Newtonsoft.Json.dll
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.csproj.AssemblyReference.cache
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.AssemblyInfoInputs.cache
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.AssemblyInfo.cs
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.csproj.CoreCompileInputs.cache
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.csproj.CopyComplete
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.dll
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\refint\JSONIntroduction.dll
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.pdb
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\JSONIntroduction.genruntimeconfig.cache
+W:\LearningStuff\PeoplePower\JSONIntroduction\JSONIntroduction\obj\Debug\net5.0\ref\JSONIntroduction.dll
